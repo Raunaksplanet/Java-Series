@@ -1,4 +1,4 @@
-
+[College Note.pdf](https://github.com/Raunaksplanet/Java-Series/files/12246203/College.Note.pdf)
 # Java Series
 
     In This Repo I will Store All The Java Code Which I'm Practacing and
@@ -19,3 +19,12 @@
 [• Task 2](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Task2.java)
 
 [• Task 3](https://github.com/Raunaksplanet/Java-Series/blob/main/August/sum_3_numbers.java)
+
+# College Notes
+
+    I have 2 sets of Notes first I got from my College and Second set of notes I got
+    from a YouTube Channel(Code With Harry) Both are great for learning.
+    
+
+    
+
