@@ -26,3 +26,5 @@
     from a YouTube Channel(Code With Harry) Both are great for learning.
 
 [• College Note](https://github.com/Raunaksplanet/Java-Series/files/12246203/College.Note.pdf)
+
+[• YouTube Notes](https://github.com/Raunaksplanet/Java-Series/files/12250734/YouTube.Notes.pdf)
