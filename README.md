@@ -20,6 +20,8 @@
 
 [• Associativity Of Operators](https://github.com/Raunaksplanet/Java-Series/blob/main/August/AssociativityOfOperators.java)
 
+[• Data Types](https://github.com/Raunaksplanet/Java-Series/blob/main/August/DataTypes.java)
+
 # College Notes
 
     I have 2 sets of Notes first I got from my College and Second set of notes I got
