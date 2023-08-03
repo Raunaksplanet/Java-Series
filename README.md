@@ -24,6 +24,8 @@
 
 [• 2 Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet2.java)
 
+[• Different Way Of Output](https://github.com/Raunaksplanet/Java-Series/edit/main/August/DifferentWayOfOutPut.java)
+
 # College Notes
 
     I have 2 sets of Notes first I got from my College and Second set of notes I got
