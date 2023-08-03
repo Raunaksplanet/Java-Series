@@ -11,7 +11,9 @@
 
 [• YouTube Notes](https://github.com/Raunaksplanet/Java-Series/files/12250734/YouTube.Notes.pdf)
 
-[• YouTube Video Playlist (Hindi)](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q)
+[• YouTube Video Playlist (Hindi, 25+ hours)](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q)
+
+[• YouTube Video (English, 9+ Hours)](https://www.youtube.com/watch?v=grEKMHGYyns)
 
 
 # Topics
