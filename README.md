@@ -24,7 +24,3 @@
 
     I have 2 sets of Notes first I got from my College and Second set of notes I got
     from a YouTube Channel(Code With Harry) Both are great for learning.
-    
-
-    
-
