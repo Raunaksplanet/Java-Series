@@ -16,6 +16,19 @@
 [• YouTube Video (English, 9+ Hours)](https://www.youtube.com/watch?v=grEKMHGYyns)
 
 
+# All Practice Sets in one place
+[• Task 1](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Task1.java)
+[•Task 2](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Task2.java)
+[•Task 3](https://github.com/Raunaksplanet/Java-Series/blob/main/August/sum_3_numbers.java)
+
+[• 2nd Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet2.java)
+
+[• 3rd Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet3.java)
+
+[• 4th Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet4.java)
+
+
+
 # Topics
 
 [• Basic Format Of Java](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Main.java)
