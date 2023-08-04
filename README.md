@@ -42,3 +42,5 @@
     
 [• String Methods/Functions](https://github.com/Raunaksplanet/Java-Series/blob/main/August/StringsMethods.java)
 
+[• 3 Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet3.java)
+
