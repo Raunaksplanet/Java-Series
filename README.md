@@ -62,3 +62,5 @@
 [• Jumping Statements:- •Break •Continue](https://github.com/Raunaksplanet/Java-Series/blob/main/August/JumpingStatements.java)
 
 [• 4th Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet4.java)
+
+[• Introduction to Array](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Array.java)
