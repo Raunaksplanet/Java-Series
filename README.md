@@ -25,22 +25,20 @@
 [• Operators in Java](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Operators.java)
 
 [• Task 1](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Task1.java)
-
 [• Task 2](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Task2.java)
-
 [• Task 3](https://github.com/Raunaksplanet/Java-Series/blob/main/August/sum_3_numbers.java)
 
 [• Associativity Of Operators](https://github.com/Raunaksplanet/Java-Series/blob/main/August/AssociativityOfOperators.java)
 
 [• Data Types](https://github.com/Raunaksplanet/Java-Series/blob/main/August/DataTypes.java)
 
-[• 2 Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet2.java)
+[• 2nd Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet2.java)
 
 [• Different Way Of Output](https://github.com/Raunaksplanet/Java-Series/edit/main/August/DifferentWayOfOutPut.java)
 
 [• Introduction To Strings](https://github.com/Raunaksplanet/Java-Series/blob/main/August/IntroToStrings.java)
-    
 [• String Methods/Functions](https://github.com/Raunaksplanet/Java-Series/blob/main/August/StringsMethods.java)
 
-[• 3 Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet3.java)
+[• 3rd Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet3.java)
 
+[• Conditional Statements:- IfElse](https://github.com/Raunaksplanet/Java-Series/blob/main/August/IfElse.java)
