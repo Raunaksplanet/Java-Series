@@ -25,8 +25,8 @@
 [• Operators in Java](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Operators.java)
 
 [• Task 1](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Task1.java)
-[• Task 2](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Task2.java)
-[• Task 3](https://github.com/Raunaksplanet/Java-Series/blob/main/August/sum_3_numbers.java)
+[•Task 2](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Task2.java)
+[•Task 3](https://github.com/Raunaksplanet/Java-Series/blob/main/August/sum_3_numbers.java)
 
 [• Associativity Of Operators](https://github.com/Raunaksplanet/Java-Series/blob/main/August/AssociativityOfOperators.java)
 
@@ -41,4 +41,5 @@
 
 [• 3rd Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet3.java)
 
-[• Conditional Statements:- IfElse](https://github.com/Raunaksplanet/Java-Series/blob/main/August/IfElse.java)
+[• Conditional Statements:- •If Else](https://github.com/Raunaksplanet/Java-Series/blob/main/August/IfElse.java)
+[•Switch Case](https://github.com/Raunaksplanet/Java-Series/blob/main/August/SwitchCase.java)
