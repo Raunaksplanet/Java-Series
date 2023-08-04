@@ -43,3 +43,5 @@
 
 [• Conditional Statements:- •If Else](https://github.com/Raunaksplanet/Java-Series/blob/main/August/IfElse.java)
 [•Switch Case](https://github.com/Raunaksplanet/Java-Series/blob/main/August/SwitchCase.java)
+
+[• Looping Statements:- •While •Do-While •For](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Loops.java)
