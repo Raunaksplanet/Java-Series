@@ -27,6 +27,8 @@
 
 [• 4th Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet4.java)
 
+[• 5th Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet5.java)
+
 
 
 # Topics
@@ -65,3 +67,5 @@
 
 [• Introduction to Array](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Array.java)
 [•2-D Array](https://github.com/Raunaksplanet/Java-Series/blob/main/August/TwoDArray.java)
+
+[• 5th Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet5.java)
