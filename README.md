@@ -47,3 +47,5 @@
 [• Looping Statements:- •While •Do-While •For](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Loops.java)
 
 [• Jumping Statements:- •Break •Continue](https://github.com/Raunaksplanet/Java-Series/blob/main/August/JumpingStatements.java)
+
+[• 4th Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet4.java)
