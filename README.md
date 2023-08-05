@@ -15,6 +15,10 @@
 
 [• YouTube Video (English, 9+ Hours)](https://www.youtube.com/watch?v=grEKMHGYyns)
 
+# Note
+    • I Didn't cover much thoery in Java files, for theory you can read notes, I covered 
+    mostly practicle stuuf in java programming files.
+
 
 # All Practice Sets in one place
 [• Task 1](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Task1.java)
