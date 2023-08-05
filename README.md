@@ -75,3 +75,4 @@
 [• 5th Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet5.java)
 
 [• Introduction to Static & Non-static Methods](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Methods.java)
+[•Method Overloading](https://github.com/Raunaksplanet/Java-Series/blob/main/August/MethodOverloading.java)
