@@ -84,3 +84,5 @@
 [• Recursion, Factorial & Fabonacci](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Recursion.java)
 
 [• 6th Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet6.java)
+
+[• Creating Custom Classes](https://github.com/Raunaksplanet/Java-Series/blob/main/August/CustomClass.java)
