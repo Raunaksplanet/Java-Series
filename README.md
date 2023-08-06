@@ -33,6 +33,8 @@
 
 [• 5th Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet5.java)
 
+[• 6th Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet6.java)
+
 
 
 # Topics
@@ -80,3 +82,5 @@
 [• VarArgs](https://github.com/Raunaksplanet/Java-Series/blob/main/August/VarArgs.java)
 
 [• Recursion, Factorial & Fabonacci](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Recursion.java)
+
+[• 6th Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet6.java)
