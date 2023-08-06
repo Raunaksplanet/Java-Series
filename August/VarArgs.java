@@ -1,5 +1,6 @@
 public class VarArgs {
 
+//    public static int sum(int a, int ...arr){
     public static int sum(int ...arr){
         int total = 0;
         for(int a: arr){
