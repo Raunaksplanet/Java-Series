@@ -21,6 +21,7 @@
 
 
 # All Practice Sets in one place
+##Check out the YouTube Notes for the Question set.
 [• Task 1](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Task1.java)
 [•Task 2](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Task2.java)
 [•Task 3](https://github.com/Raunaksplanet/Java-Series/blob/main/August/sum_3_numbers.java)
@@ -34,6 +35,8 @@
 [• 5th Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet5.java)
 
 [• 6th Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet6.java)
+
+[• 7th Practice Set](https://github.com/Raunaksplanet/Java-Series/edit/main/August/PracticeSet7.java)
 
 
 
@@ -86,3 +89,5 @@
 [• 6th Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet6.java)
 
 [• Creating Custom Classes](https://github.com/Raunaksplanet/Java-Series/blob/main/August/CustomClass.java)
+
+[• 7th Practice Set](https://github.com/Raunaksplanet/Java-Series/edit/main/August/PracticeSet7.java)
