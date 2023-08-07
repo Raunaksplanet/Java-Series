@@ -1,5 +1,3 @@
-import com.sun.security.jgss.GSSUtil;
-
 class base{
     private int a, b;
     public void setA(int A){
