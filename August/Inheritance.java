@@ -1,7 +1,7 @@
 import com.sun.security.jgss.GSSUtil;
 
 class base{
-    public int a, b;
+    private int a, b;
     public void setA(int A){
         a = A;
     }
