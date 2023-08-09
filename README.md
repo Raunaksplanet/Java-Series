@@ -105,3 +105,5 @@
 [• This & Super Keywords](https://github.com/Raunaksplanet/Java-Series/blob/main/August/ThisAndSuper.java)
 
 [• Method Overriding](https://github.com/Raunaksplanet/Java-Series/blob/main/August/MethodOveriding.java)
+
+[• Dynamic Method Dispatch](https://github.com/Raunaksplanet/Java-Series/blob/main/August/DynamicMethodDispatch.java)
