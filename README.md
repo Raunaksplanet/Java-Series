@@ -109,3 +109,6 @@
 [• Dynamic Method Dispatch](https://github.com/Raunaksplanet/Java-Series/blob/main/August/DynamicMethodDispatch.java)
 
 [• 8th Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet8.java)
+
+
+[• Abstract Class](https://github.com/Raunaksplanet/Java-Series/blob/main/August/AbstractClass.java)
