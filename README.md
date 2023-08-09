@@ -112,3 +112,5 @@
 
 
 [• Abstract Class](https://github.com/Raunaksplanet/Java-Series/blob/main/August/AbstractClass.java)
+
+[• Introduction To Interfaces](https://github.com/Raunaksplanet/Java-Series/blob/main/August/IntroToInterfaces.java)
