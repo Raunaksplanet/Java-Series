@@ -1,23 +1,24 @@
+import java.util.Scanner;
+
+
 class kilas{
-    int a = 15;
     kilas(int a){
-        this.a = a;
-    }
-    kilas(){
-        System.out.println("Constructor Returning the value of a is " + a);
+        System.out.println("Constructor Returning the value of a: " + a);
     }
 }
 
 class kilas2 extends kilas{
     kilas2(int c){
         super(c);
-        System.out.println("I'm Constructor of Derived class");
+        System.out.println("I'm Constructor of Derived class(Kilas 2)");
     }
 }
 
 public class ThisAndSuper {
     public static void main(String[] args) {
-        kilas kl = new kilas();
-        kilas2 kl2 = new kilas2(55);
+        Scanner sc  = new Scanner(System.in);
+        System.out.println("Enter Data: ");
+        int f = sc.nextInt();
+        kilas2 kl2 = new kilas2(f);
     }
 }
