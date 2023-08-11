@@ -9,6 +9,10 @@ public class Array {
         int[] arr2;
         arr2 = new int[5];
 
+        //2. Declare, Initialization, Memory allocation.
+        int[] arr5 = {1,2,3,4,5,6,7,8,9,10};
+        
+
         //There is two ways of Initialize value in array.
         // 1. Providing values at each index
         arr[0] = 10;
