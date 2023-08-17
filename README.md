@@ -7,6 +7,7 @@
 # Study Material I'm Using
     I have 2 sets of Notes first I got from my College and Second set of notes I got
     from a YouTube Channel(Code With Harry) Both are great for learning.
+    
 [• College Notes](https://github.com/Raunaksplanet/Java-Series/files/12246203/College.Note.pdf)
 
 [• YouTube Notes](https://github.com/Raunaksplanet/Java-Series/files/12250734/YouTube.Notes.pdf)
@@ -18,10 +19,10 @@
 # Note
     • I Didn't cover much thoery in Java files, for theory you can read notes, I covered 
     mostly practicle stuuf in java programming files.
-
+    Check out the YouTube Notes for the Question set.
 
 # All Practice Sets in one place
-##Check out the YouTube Notes for the Question set.
+
 [• Task 1](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Task1.java)
 [•Task 2](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Task2.java)
 [•Task 3](https://github.com/Raunaksplanet/Java-Series/blob/main/August/sum_3_numbers.java)
@@ -38,6 +39,13 @@
 
 [• 7th Practice Set](https://github.com/Raunaksplanet/Java-Series/edit/main/August/PracticeSet7.java)
 
+# All Java Mini Projects
+
+[• Stone Paper & Scissor Game](https://github.com/Raunaksplanet/Random-Codes/blob/main/Projects/Java/GameUsingOops.java)
+
+[• Guess the Number Game](https://github.com/Raunaksplanet/Random-Codes/blob/main/Projects/Java/GuessTheNumber.java)
+
+[• GUI Based Calculator](https://github.com/Raunaksplanet/Random-Codes/blob/main/Projects/Java/calculator.java)
 
 
 # Topics
