@@ -121,6 +121,8 @@
 
 [• Abstract Class](https://github.com/Raunaksplanet/Java-Series/blob/main/August/AbstractClass.java)
 
-[• Introduction To Interfaces](https://github.com/Raunaksplanet/Java-Series/blob/main/August/IntroToInterfaces.java)
+[• Introduction To Interfaces ](https://github.com/Raunaksplanet/Java-Series/blob/main/August/IntroToInterfaces.java)
 
-[• Multiple Inrterfaces Implements Single Class](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Interfaces.java)
+[• Multiple Inrterfaces Implements In Single Class](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Interfaces.java)
+
+[ • Default Methods in Interfaces](https://github.com/Raunaksplanet/Java-Series/blob/main/August/DefaultMethodsInterfaces.java)
