@@ -125,4 +125,6 @@
 
 [• Multiple Inrterfaces Implements In Single Class](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Interfaces.java)
 
-[ • Default Methods in Interfaces](https://github.com/Raunaksplanet/Java-Series/blob/main/August/DefaultMethodsInterfaces.java)
+[• Default Methods in Interfaces](https://github.com/Raunaksplanet/Java-Series/blob/main/August/DefaultMethodsInterfaces.java)
+
+[• Inheritance In Interfaces](https://github.com/Raunaksplanet/Java-Series/blob/main/August/InheritanceInInterfaces.java)
