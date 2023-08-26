@@ -66,7 +66,7 @@
 
 [• 2nd Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet2.java)
 
-[• Different Way Of Output](https://github.com/Raunaksplanet/Java-Series/edit/main/August/DifferentWayOfOutPut.java)
+[• 4 Print Methods](https://github.com/Raunaksplanet/Java-Series/edit/main/August/DifferentWayOfOutPut.java)
 
 [• Introduction To Strings](https://github.com/Raunaksplanet/Java-Series/blob/main/August/IntroToStrings.java)
 [• String Methods/Functions](https://github.com/Raunaksplanet/Java-Series/blob/main/August/StringsMethods.java)
@@ -84,6 +84,8 @@
 
 [• Introduction to Array](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Array.java)
 [•2-D Array](https://github.com/Raunaksplanet/Java-Series/blob/main/August/TwoDArray.java)
+
+[•Access Modifiers](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Access_Modifiers.java)
 
 [• 5th Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet5.java)
 
