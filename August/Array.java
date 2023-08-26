@@ -1,19 +1,14 @@
 public class Array {
     public static void main(String[] args) {
 
-        //There is two ways of Declare array.
-        //1.declaration and memory allocation at same time.
+        // Declaration:
+        // 1.Dynamic
         int[] arr = new int[5];
-
-        //2. first declare then  memory allocation.
-        int[] arr2;
-        arr2 = new int[5];
-
-        //2. Declare, Initialization, Memory allocation.
-        int[] arr5 = {1,2,3,4,5,6,7,8,9,10};
         
+        // 2. Static
+        int[] arr2;
 
-        //There is two ways of Initialize value in array.
+        // Initialization:
         // 1. Providing values at each index
         arr[0] = 10;
         arr[1] = 20;
@@ -21,7 +16,7 @@ public class Array {
         arr[3] = 40;
         arr[4] = 50;
 
-        //2. Providing values in continuous form.
+        // 2. Providing values in continuous form.
         int[] arr3 = {1,2,3,4,5};
 
         // Length: Length is a function in array to find out the number of elements in array.
