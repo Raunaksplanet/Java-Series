@@ -44,6 +44,36 @@ public class File_Handling{
                 e.toString();
             }
         }
+
+        // Creating File directly in a Folder
+        File fl2 = new File("UserData");
+        try{
+            fl2.mkdir();
+            File fl = new File("UserData\\User1.txt");
+            fl.createNewFile();
+        }
+        catch(Exception e){
+            e.toString();
+        }
+        
+        // Creating a file name given by user
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter the file name (including extension): ");
+        String fileName = sc.nextLine();
+
+        File file = new File(fileName);
+
+        try {
+            if (file.createNewFile()) {
+                System.out.println("File '" + fileName + "' has been created successfully.");
+            } else {
+                System.out.println("File '" + fileName + "' already exists.");
+            }
+        } catch (IOException e) {
+            System.err.println("An error occurred while creating the file '" + fileName + "': " + e.getMessage());
+        }
+
         
     }
 }
