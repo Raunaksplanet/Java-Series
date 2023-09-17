@@ -41,11 +41,13 @@
 
 # All Java Mini Projects
 
-[• Stone Paper & Scissor Game](https://github.com/Raunaksplanet/Random-Codes/blob/main/Projects/Java/GameUsingOops.java)
+[• Stone Paper & Scissor Game](https://github.com/Raunaksplanet/Random-Codes/blob/main/Mini%20Projects/Java/GameUsingOops.java)
 
-[• Guess the Number Game](https://github.com/Raunaksplanet/Random-Codes/blob/main/Projects/Java/GuessTheNumber.java)
+[• Guess the Number Game](https://github.com/Raunaksplanet/Random-Codes/blob/main/Mini%20Projects/Java/GuessTheNumber.java)
 
-[• GUI Based Calculator](https://github.com/Raunaksplanet/Random-Codes/blob/main/Projects/Java/calculator.java)
+[• GUI Based Calculator](https://github.com/Raunaksplanet/Random-Codes/blob/main/Mini%20Projects/Java/calculator.java)
+
+[• Login/Signup System](https://github.com/Raunaksplanet/Random-Codes/blob/main/Mini%20Projects/Java/LoginSignUpSystem.java)
 
 
 # Topics
