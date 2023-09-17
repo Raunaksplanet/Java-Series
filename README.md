@@ -49,7 +49,7 @@
 
 [• Login/Signup System](https://github.com/Raunaksplanet/Random-Codes/blob/main/Mini%20Projects/Java/LoginSignUpSystem.java)
 
-[• Swing GUI Module](https://github.com/Raunaksplanet/Random-Codes/blob/main/Mini%20Projects/Java/LoginSignUpSystem.java)
+[• Swing GUI Module](https://github.com/Raunaksplanet/Random-Codes/blob/main/Mini%20Projects/Java/Swing_Module.java)
 
 
 # Topics
