@@ -21,7 +21,7 @@
       mostly practicle stuuf in java programming files.
       Check out the YouTube Notes for the Question set.
 
-# All Practice Sets in one place
+# All Practice Sets
 
 [• Task 1](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Task1.java)
 [•Task 2](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Task2.java)
@@ -48,6 +48,8 @@
 [• GUI Based Calculator](https://github.com/Raunaksplanet/Random-Codes/blob/main/Mini%20Projects/Java/calculator.java)
 
 [• Login/Signup System](https://github.com/Raunaksplanet/Random-Codes/blob/main/Mini%20Projects/Java/LoginSignUpSystem.java)
+
+[• Swing GUI Module](https://github.com/Raunaksplanet/Random-Codes/blob/main/Mini%20Projects/Java/LoginSignUpSystem.java)
 
 
 # Topics
