@@ -47,7 +47,7 @@
 
 [• GUI Based Calculator](https://github.com/Raunaksplanet/Random-Codes/blob/main/Mini%20Projects/Java/calculator.java)
 
-[• Login/Signup System](https://github.com/Raunaksplanet/Random-Codes/blob/main/Mini%20Projects/Java/LoginSignUpSystem.java)
+[• Login/Signup System](https://github.com/Raunaksplanet/Random-Codes/tree/main/Mini%20Projects/Java/SignIn%20SignUp%20System)
 
 [• Swing GUI Module](https://github.com/Raunaksplanet/Random-Codes/blob/main/Mini%20Projects/Java/Swing_Module.java)
 
