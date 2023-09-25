@@ -56,6 +56,8 @@
 
 [• Basic Format Of Java](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Main.java)
 
+[• Data Type Conversion](https://github.com/Raunaksplanet/Java-Series/blob/main/August/DataTypeConversion.java)
+
 [• Input From User](https://github.com/Raunaksplanet/Java-Series/blob/main/August/UserInput.java)
 
 [• Operators in Java](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Operators.java)
