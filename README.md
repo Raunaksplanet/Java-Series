@@ -136,3 +136,93 @@
 [• Inheritance In Interfaces](https://github.com/Raunaksplanet/Java-Series/blob/main/August/InheritanceInInterfaces.java)
 
 [• File Handling](https://github.com/Raunaksplanet/Java-Series/blob/main/August/File_Handling.java)
+
+
+# Java Syllabus
+    1. Introduction to Java:
+       History of Java
+       Installation of Java Development Kit (JDK)
+       Writing and running a simple Java program
+       Basic syntax and structure of Java programs
+
+    2. Variables and Data Types:
+       Primitive data types (int, double, char, boolean, etc.)
+       Declaring and initializing variables
+       Type casting
+       Constants
+
+    3. Operators:
+       Arithmetic operators
+       Comparison operators
+       Logical operators
+       Assignment operators
+       Increment and decrement operators
+
+    4. Control Flow:
+       Conditional statements (if, else if, else, switch)
+       Looping statements (for, while, do-while)
+       Break and continue statements
+       Exception handling (try, catch, throw, throws, finally)
+
+    5. Arrays:
+       Declaring and initializing arrays
+       Accessing and modifying array elements
+       Multidimensional arrays
+       Array methods (length, clone, etc.)
+
+    6. ObjectOriented Programming (OOP):
+       Classes and objects
+       Constructors
+       Methods and method overloading
+       Inheritance
+       Polymorphism
+       Encapsulation
+       Abstraction
+       Interfaces and abstract classes
+
+    7. Exception Handling:
+       Checked vs. unchecked exceptions
+       Custom exceptions
+       Exception hierarchy
+       Handling exceptions using try-catch blocks
+
+    8. File I/O:
+       Reading from and writing to files
+       Using BufferedReader, BufferedWriter, FileReader, and FileWriter
+
+    9. Collections Framework:
+       ArrayList, LinkedList, HashSet, HashMap, etc.
+       Iterators and foreach loop
+       Sorting and searching collections
+
+    10. Threads and Concurrency:
+         Creating and managing threads
+         Synchronization
+         Thread safety
+
+    11. Java Standard Library (java.util, java.io, java.lang, etc.):
+         Date and time manipulation
+         String manipulation
+         Regular expressions
+         Math functions
+         Wrapper classes
+
+    12. Graphical User Interfaces (GUI):
+         Introduction to JavaFX or Swing (depending on the course)
+         Building simple GUI applications
+
+    13. Database Connectivity (JDBC):
+         Connecting to databases
+         Executing SQL queries
+         Retrieving and manipulating data
+
+    14. Introduction to Java Frameworks (optional):
+         Spring, Hibernate, etc. (if relevant to the course)
+
+    15. Best Practices and Coding Standards:
+         Code formatting and naming conventions
+         Documentation and comments
+         Code optimization
+
+    16. Project Work (if applicable):
+         Developing a Java application as a final project  
