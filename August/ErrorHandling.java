@@ -65,5 +65,18 @@ public class ErrorHandling {
         } finally {
             System.out.println("This block will always execute\n");
         }
+
+        System.out.println("5.Exception");
+        // 5.Exception (Simplly you can write exception and it will automatically figure out the exception)
+        try {
+            int[] arr = new int[3];
+            arr[3] = 10;
+
+        } catch (Exception e) {
+            System.out.println(e);
+        } finally {
+            System.out.println("This block will always execute\n");
+        }
+        
     }
 }
