@@ -2,6 +2,7 @@ import java.io.File; // creating File
 import java.io.FileReader; // Reading File
 import java.io.FileWriter; // Writer File
 import java.io.IOException; // Maintaining File Exceptions/Errors
+import java.util.Scanner;
 
 public class File_Handling{
     public static void main(String args[]) {
@@ -35,22 +36,22 @@ public class File_Handling{
         int n = 5;
         for (int i = 1; i <= n; i++) {
             try {
-                File fl = new File("file" + i + ".txt");
-                fl.createNewFile();
+                File fl3 = new File("file" + i + ".txt");
+                fl3.createNewFile();
 
-                File fl2 = new File("Folder" + i);
-                fl2.mkdir();
+                File fl4 = new File("Folder" + i);
+                fl4.mkdir();
             } catch (Exception e) {
                 e.toString();
             }
         }
 
         // Creating File directly in a Folder
-        File fl2 = new File("UserData");
+        File fl5 = new File("UserData");
         try{
-            fl2.mkdir();
-            File fl = new File("UserData\\User1.txt");
-            fl.createNewFile();
+            fl5.mkdir();
+            File fl6 = new File("UserData\\User1.txt");
+            fl6.createNewFile();
         }
         catch(Exception e){
             e.toString();
@@ -74,6 +75,28 @@ public class File_Handling{
             System.err.println("An error occurred while creating the file '" + fileName + "': " + e.getMessage());
         }
 
-        
+        //Writting into file using FileWriter class.
+        try{
+            FileWriter fw1 = new FileWriter("FileWriter.txt");
+            fw1.write("Hello There\n");
+            fw1.write("\tHoney");
+            fw1.close();
+        }catch(Exception e){
+            e.toString();
+        }
+
+
+        System.out.println();
+        // Reading a file using FileReader class.
+        try (FileReader fr = new FileReader("FileWriter.txt")) {
+            int word;
+            while ((word = fr.read()) != -1) {
+                // Convert the character to a char and print it
+                char ch = (char) word;
+                System.out.print(ch);
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 }
