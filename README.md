@@ -19,7 +19,8 @@
 # :memo: Note
 
     📝 I Didn't cover much theory in Java files, for theory you can read notes, 
-        I covered mostly practical stuff in java programming files. Check out the YouTube Notes for the Question set.
+        I covered mostly practical stuff in java programming files. Check out 
+        the YouTube Notes for the Question set.
 
 # :books: All Practice Sets
 
