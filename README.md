@@ -54,92 +54,56 @@
 
 # Topics
 
-[• Basic Format Of Java](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Main.java)
+| 📚 Topic                                          | 🚀 Link                                                                                      |
+| ------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| 🧩 Basic Format Of Java                             | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Main.java)         |
+| 🔄 Data Type Conversion                             | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/DataTypeConversion.java) |
+| 🖊️ Input From User                                  | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/UserInput.java)    |
+| ➕ Operators in Java                                | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Operators.java)    |
+| 📝 Task 1                                           | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Task1.java)       |
+| 📝 Task 2                                           | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Task2.java)       |
+| 📝 Task 3                                           | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/sum_3_numbers.java) |
+| 🔄 Associativity Of Operators                      | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/AssociativityOfOperators.java) |
+| 📋 Data Types                                      | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/DataTypes.java) |
+| ✍️ 2nd Practice Set                                | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet2.java) |
+| 🖨️ 4 Print Methods                                 | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/edit/main/August/DifferentWayOfOutPut.java) |
+| 🧵 Introduction To Strings                         | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/IntroToStrings.java) |
+| 📖 String Methods/Functions                        | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/StringsMethods.java) |
+| ✍️ 3rd Practice Set                                | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet3.java) |
+| ❓ Conditional Statements: •If Else                | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/IfElse.java) |
+| 🔄 Switch Case                                     | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/SwitchCase.java) |
+| 🔁 Looping Statements: •While •Do-While •For       | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Loops.java) |
+| 🪟 Jumping Statements: •Break •Continue            | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/JumpingStatements.java) |
+| ✍️ 4th Practice Set                                | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet4.java) |
+| 📦 Introduction to Array                           | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Array.java) |
+| 🔳 2-D Array                                      | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/TwoDArray.java) |
+| 🔒 Access Modifiers                               | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Access_Modifiers.java) |
+| 📚 5th Practice Set                                | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet5.java) |
+| ⚙️ Introduction to Static & Non-static Methods      | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Methods.java) |
+| 🔀 Method Overloading                              | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/MethodOverloading.java) |
+| 🧮 VarArgs                                         | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/VarArgs.java) |
+| ♻️ Recursion, Factorial & Fabonacci                 | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Recursion.java) |
+| ✍️ 6th Practice Set                                | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet6.java) |
+| 🧪 Creating Custom Classes                         | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/CustomClass.java) |
+| 📚 7th Practice Set                                | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/edit/main/August/PracticeSet7.java) |
+| 🔒 Access Modifiers: Private                      | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PrivateElement.java) |
+| ⚙️ Constructors                                    | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Constructor.java) |
+| ⚙️ Constructors Overloading                        | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/ConstructorOverloading.java) |
+| 🎮 Stone Paper Scissor Game using OOPS Concept     | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/GameUsingOops.java) |
+| 🧬 Inheritance                                     | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Inheritance.java) |
+| ⚙️ Constructors In Inheritance                     | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/ConstructorsInInheritance.java) |
+| 🔄 This & Super Keywords                           | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/ThisAndSuper.java) |
+| 🔀 Method Overriding                               | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/MethodOveriding.java) |
+| 🔄 Dynamic Method Dispatch                         | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/DynamicMethodDispatch.java) |
+| 📚 8th Practice Set                                | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet8.java) |
+| 📘 Abstract Class                                  | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/AbstractClass.java) |
+| 🌐 Introduction To Interfaces                      | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/IntroToInterfaces.java) |
+| 🪧 Multiple Interfaces Implements In Single Class  | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Interfaces.java) |
+| ⚙️ Default Methods in Interfaces                   | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/DefaultMethodsInterfaces.java) |
+| 🔄 Inheritance In Interfaces                       | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/InheritanceInInterfaces.java) |
+| 📁 File Handling                                  | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/File_Handling.java) |
+| ❌ Error Handling                                 | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/ErrorHandling.java) |
 
-[• Data Type Conversion](https://github.com/Raunaksplanet/Java-Series/blob/main/August/DataTypeConversion.java)
-
-[• Input From User](https://github.com/Raunaksplanet/Java-Series/blob/main/August/UserInput.java)
-
-[• Operators in Java](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Operators.java)
-
-[• Task 1](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Task1.java)
-[•Task 2](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Task2.java)
-[•Task 3](https://github.com/Raunaksplanet/Java-Series/blob/main/August/sum_3_numbers.java)
-
-[• Associativity Of Operators](https://github.com/Raunaksplanet/Java-Series/blob/main/August/AssociativityOfOperators.java)
-
-[• Data Types](https://github.com/Raunaksplanet/Java-Series/blob/main/August/DataTypes.java)
-
-[• 2nd Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet2.java)
-
-[• 4 Print Methods](https://github.com/Raunaksplanet/Java-Series/edit/main/August/DifferentWayOfOutPut.java)
-
-[• Introduction To Strings](https://github.com/Raunaksplanet/Java-Series/blob/main/August/IntroToStrings.java)
-[• String Methods/Functions](https://github.com/Raunaksplanet/Java-Series/blob/main/August/StringsMethods.java)
-
-[• 3rd Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet3.java)
-
-[• Conditional Statements:- •If Else](https://github.com/Raunaksplanet/Java-Series/blob/main/August/IfElse.java)
-[•Switch Case](https://github.com/Raunaksplanet/Java-Series/blob/main/August/SwitchCase.java)
-
-[• Looping Statements:- •While •Do-While •For](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Loops.java)
-
-[• Jumping Statements:- •Break •Continue](https://github.com/Raunaksplanet/Java-Series/blob/main/August/JumpingStatements.java)
-
-[• 4th Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet4.java)
-
-[• Introduction to Array](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Array.java)
-[•2-D Array](https://github.com/Raunaksplanet/Java-Series/blob/main/August/TwoDArray.java)
-
-[•Access Modifiers](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Access_Modifiers.java)
-
-[• 5th Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet5.java)
-
-[• Introduction to Static & Non-static Methods](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Methods.java)
-[•Method Overloading](https://github.com/Raunaksplanet/Java-Series/blob/main/August/MethodOverloading.java)
-
-[• VarArgs](https://github.com/Raunaksplanet/Java-Series/blob/main/August/VarArgs.java)
-
-[• Recursion, Factorial & Fabonacci](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Recursion.java)
-
-[• 6th Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet6.java)
-
-[• Creating Custom Classes](https://github.com/Raunaksplanet/Java-Series/blob/main/August/CustomClass.java)
-
-[• 7th Practice Set](https://github.com/Raunaksplanet/Java-Series/edit/main/August/PracticeSet7.java)
-
-[• Access Modifiers:- Private](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PrivateElement.java)
-
-[• Constructors](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Constructor.java)
-[•Constructors Overloading](https://github.com/Raunaksplanet/Java-Series/blob/main/August/ConstructorOverloading.java)
-
-[• Stone Paper Scissor Game using OOPS Concept](https://github.com/Raunaksplanet/Java-Series/blob/main/August/GameUsingOops.java)
-
-[• Inheritance ](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Inheritance.java)
-[•Constructors In Inheritance](https://github.com/Raunaksplanet/Java-Series/blob/main/August/ConstructorsInInheritance.java)
-
-[• This & Super Keywords](https://github.com/Raunaksplanet/Java-Series/blob/main/August/ThisAndSuper.java)
-
-[• Method Overriding](https://github.com/Raunaksplanet/Java-Series/blob/main/August/MethodOveriding.java)
-
-[• Dynamic Method Dispatch](https://github.com/Raunaksplanet/Java-Series/blob/main/August/DynamicMethodDispatch.java)
-
-[• 8th Practice Set](https://github.com/Raunaksplanet/Java-Series/blob/main/August/PracticeSet8.java)
-
-
-[• Abstract Class](https://github.com/Raunaksplanet/Java-Series/blob/main/August/AbstractClass.java)
-
-[• Introduction To Interfaces ](https://github.com/Raunaksplanet/Java-Series/blob/main/August/IntroToInterfaces.java)
-
-[• Multiple Inrterfaces Implements In Single Class](https://github.com/Raunaksplanet/Java-Series/blob/main/August/Interfaces.java)
-
-[• Default Methods in Interfaces](https://github.com/Raunaksplanet/Java-Series/blob/main/August/DefaultMethodsInterfaces.java)
-
-[• Inheritance In Interfaces](https://github.com/Raunaksplanet/Java-Series/blob/main/August/InheritanceInInterfaces.java)
-
-[• File Handling](https://github.com/Raunaksplanet/Java-Series/blob/main/August/File_Handling.java)
-
-[• Error Handling](https://github.com/Raunaksplanet/Java-Series/blob/main/August/ErrorHandling.java)
 
 
 # Java Syllabus
