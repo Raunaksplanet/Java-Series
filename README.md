@@ -137,6 +137,8 @@
 
 [• File Handling](https://github.com/Raunaksplanet/Java-Series/blob/main/August/File_Handling.java)
 
+[• Error Handling](https://github.com/Raunaksplanet/Java-Series/blob/main/August/ErrorHandling.java)
+
 
 # Java Syllabus
     1. Introduction to Java:
