@@ -9,12 +9,19 @@ public class ErrorHandling {
         /*
          * Syntax of try-catch-finally block.
          * try {
-         *      // Code
+         * // Code
          * } catch(Exception e) {
-         *      System.out.println(e);
+         * System.out.println(e);
          * } finally {
-         *      // This block will always execute.
+         * // This block will always execute.
          * }
+         
+         * Some Type of Exceptions
+         * 1.Arithematic Exception
+         * 2.NullPointer Exception
+         * 3.NumberFormat Exception
+         * 4.ArrayIndexOutOfBounds Exception
+         * 5.Exception
          */
 
         System.out.println("1.Arithematic Exception");
