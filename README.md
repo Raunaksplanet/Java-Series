@@ -103,6 +103,7 @@
 | 🔄 Inheritance In Interfaces                 | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/InheritanceInInterfaces.java) |
 | 📁 File Handling                            | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/File_Handling.java) |
 | ❌ Error Handling                           | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/ErrorHandling.java) |
+|🧵 MultiThreading                           | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/MultiThreading.java) |
 
 # :clipboard: Java Syllabus
 
