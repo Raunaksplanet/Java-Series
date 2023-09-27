@@ -104,6 +104,7 @@
 | 📁 File Handling                            | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/File_Handling.java) |
 | ❌ Error Handling                           | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/ErrorHandling.java) |
 |🧵 MultiThreading                           | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/MultiThreading.java) |
+| 🧶 Thread Priority                           | [🔗 Link](https://github.com/Raunaksplanet/Java-Series/blob/main/August/ThreadPriority.java) |
 
 # :clipboard: Java Syllabus
 
